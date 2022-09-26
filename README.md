@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @divad9
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**David Buba Babayo**
+
+
+Data Analyst 
+
+Python | Numpy | Pandas | Matplotlib | Seaborn | Scikit Learn
 
 <!---
 divad9/divad9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
